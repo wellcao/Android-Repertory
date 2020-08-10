@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-08-04T02:26:17.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="cWfjt2wYmkUyMe9UjNF3" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-10T07:07:54.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="7jLNEdyJodm3kZA0AjH1" version="13.6.2" type="github">
   <diagram id="R7b4yRjfrWpLfrtPJDFX" name="Page-1">
-    <mxGraphModel dx="3544" dy="2593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s6Fd6_H5oEPSE0fy2v5k-9" value="&lt;h1&gt;.... ...&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="250" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s6Fd6_H5oEPSE0fy2v5k-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="525" width="750" height="285" as="geometry" />
@@ -160,8 +160,11 @@
         <mxCell id="s6Fd6_H5oEPSE0fy2v5k-61" value="插件化" style="text;strokeColor=none;fillColor=none;html=1;fontSize=54;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="1210" y="1395" width="250" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="swb12kJXP0nl4GZQlAJO-3" value="network、&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 10.5pt&quot;&gt;uicomponent、imageloader..集合.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="swb12kJXP0nl4GZQlAJO-3" value="network、&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 10.5pt&quot;&gt;uicomponent、imageloader..集合.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="868.5" y="500" width="193" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="yEznWmOmSsw9iO6Gy8gs-1" value="首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
